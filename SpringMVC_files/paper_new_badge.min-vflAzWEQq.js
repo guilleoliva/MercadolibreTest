@@ -1,0 +1,2 @@
+define(["require","exports","tslib","external/react","modules/clean/react/css","modules/core/i18n"],function(e,t,r,n,s,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var c=(function(e){function t(){return null!==e&&e.apply(this,arguments)||this}return r.__extends(t,e),t.prototype.render=function(){return n.createElement("div",{className:"paper-new-badge"},a._("New"))},t})(n.Component),i=["/static/css/paper/paper_new_badge-vflAagCtc.css"];t.PaperNewBadge=s(c,i)});
+//# sourceMappingURL=paper_new_badge.min.js-vflDiGewu.map

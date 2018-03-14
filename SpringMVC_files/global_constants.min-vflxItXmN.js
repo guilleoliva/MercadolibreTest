@@ -1,0 +1,2 @@
+define(["require","exports"],function(e,t){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.GlobalConstants=window.GlobalConstants});
+//# sourceMappingURL=global_constants.min.js-vflvSI6MD.map

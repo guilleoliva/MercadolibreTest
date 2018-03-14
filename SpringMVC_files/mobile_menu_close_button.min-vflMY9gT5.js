@@ -1,0 +1,2 @@
+define(["require","exports","external/react","external/spectrum/mobile_menu/mobile_menu_item"],function(e,t,n,l){"use strict";function o(){return n.createElement(l.MobileMenuItem,{className:"mc-mobile-menu-close-button",shouldCloseMenuOnSelect:!0},"Close")}Object.defineProperty(t,"__esModule",{value:!0}),t.MobileMenuCloseButton=o});
+//# sourceMappingURL=mobile_menu_close_button.bundled.min.js-vfl38hgWX.map
